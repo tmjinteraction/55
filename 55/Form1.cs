@@ -19,7 +19,12 @@ namespace _55
 
         private void Form1_Load(object sender, EventArgs e)
         {
-            string k = "KUY";
+            string k = "KUYrai";
+        }
+
+        private void btn1_Click(object sender, EventArgs e)
+        {
+           
         }
     }
 }
