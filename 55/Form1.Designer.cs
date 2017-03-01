@@ -39,7 +39,7 @@
             this.btn1.TabIndex = 0;
             this.btn1.Text = "button1";
             this.btn1.UseVisualStyleBackColor = true;
-            this.btn1.Click += new System.EventHandler(this.btn1_Click);
+
             // 
             // Form1
             // 
